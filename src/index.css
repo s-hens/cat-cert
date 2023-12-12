@@ -1,0 +1,11 @@
+body {
+  margin: 20px;
+}
+
+#cert {
+  border: 1px solid;
+}
+
+#pet-name {
+  display: none;
+}
