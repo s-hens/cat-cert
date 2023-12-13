@@ -5,6 +5,11 @@ import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <CertText />
+    <div id="cert">
+      <p>CertifiCATe of Achievement</p>
+      <p>Awarded to</p>
+      <CertText />
+      <p>for</p>
+    </div>
   </React.StrictMode>,
 )
